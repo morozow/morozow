@@ -21,10 +21,10 @@ Academic background in engineering psychology, ergonomics, and radioengineering 
 %%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#2d333b', 'primaryTextColor': '#e6edf3', 'primaryBorderColor': '#768390', 'lineColor': '#768390', 'secondaryColor': '#1c2128', 'tertiaryColor': '#1c2128', 'fontSize': '13px' }}}%%
 
 flowchart LR
-    A["<b>AGI &amp; Multi-Agent Systems</b><br/><i>operational domain</i><br/>coordination · autonomy · governance"]
-    Q(["◈ <b>Core Question</b><br/><i>How should intelligence be modeled<br/>when technical systems and philosophical<br/>assumptions remain incomplete?</i>"])
-    B["<b>Quantum-Inspired Theory</b><br/><i>theoretical lens</i><br/>entanglement · decoherence · gravity"]
-    C["<b>Philosophy of Science</b><br/><i>grounding frame</i><br/>intelligence · consciousness · reality"]
+    A["<b>AGI &amp; Multi-Agent Systems</b><br/><i>operational domain</i><br/>coordination · autonomy <br/> governance"]
+    Q(["◈ <b>Core Question</b><br/><i>How should intelligence be <br/> modeled when technical systems <br/> and philosophical assumptions <br/> remain incomplete?</i>"])
+    B["<b>Quantum-Inspired Theory</b><br/><i>theoretical lens</i><br/>entanglement · decoherence <br/> gravity"]
+    C["<b>Philosophy of Science</b><br/><i>grounding frame</i><br/>intelligence · consciousness <br/> reality"]
 
     A --- Q
     Q --- B
