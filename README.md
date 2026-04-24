@@ -1,13 +1,9 @@
 <div align="center">
 
-<br>
-
 ```
 Intelligence is coordination under incomplete knowledge.
 I study where formal systems meet unfinished philosophy.
 ```
-
-<br>
 
 </div>
 
@@ -18,8 +14,6 @@ I study where formal systems meet unfinished philosophy.
 Independent researcher at the intersection of artificial general intelligence, multi-agent systems, quantum-information theory, and foundational philosophy of science.
 
 Academic background in engineering psychology, ergonomics, and radioengineering systems. That training shapes how I think about intelligence — not as computation alone, but as organization, adaptation, and coordination under constraint.
-
-<br>
 
 <div align="center">
 
@@ -49,8 +43,6 @@ flowchart LR
 ```
 
 </div>
-
-<br>
 
 ---
 
