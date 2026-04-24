@@ -78,18 +78,4 @@ First-principles inquiry into intelligence, consciousness, and reality. What doe
 ▸ Theory of Everything as dynamic ontology
 ```
 
----
-
-<div align="center">
-
-<br>
-
-*theory should compress complexity, not mystify it*
-
-<br>
-
-`engineering psychology` · `AGI` · `multi-agent coordination` · `quantum information` · `philosophy of science`
-
-<br>
-
 </div>
