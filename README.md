@@ -2,7 +2,7 @@
 
 ```
 Intelligence is coordination under incomplete knowledge.
-I study where formal systems meet unfinished philosophy.
+I study where formal systems meet unfinished philosophy in practice.
 ```
 
 </div>
